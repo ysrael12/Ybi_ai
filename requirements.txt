@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+peft
+accelerate
+mangaba
+huggingface_hub
+sentencepiece
+protobuf
